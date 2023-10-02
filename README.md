@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EdoElgx
 - 👀 I’m interested in Enterprise and ML software development.
-- 🌱 I’m currently learning Blockchain, Cryto, and ML.
-- 💞️ I’m looking to collaborate on open source Blockchain, ML projects.
+- 🌱 I’m currently learning ML, Blockchain/Crypto.
 - 📫 How to reach me edoelg@pm.me
 
 <!---
